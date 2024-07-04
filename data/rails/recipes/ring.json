@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " GD",
+        "G G",
+        " G "
+    ],
+    "key": {
+        "G": {
+            "item": "gold_block"
+        },
+        "D": {
+            "item": "diamond"
+        }
+    },
+    "result": {
+        "item": "totem_of_undying"
+    }
+}
