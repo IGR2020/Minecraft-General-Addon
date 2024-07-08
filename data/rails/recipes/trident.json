@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "PPP",
+        " S ",
+        " C "
+    ],
+    "key": {
+        "P": {
+            "item": "prismarine_shard"
+        },
+        "S": {
+            "item": "nether_star"
+        },
+        "C": {
+            "item": "prismarine_crystals"
+        }
+    },
+    "result": {
+        "item": "trident"
+    }
+}

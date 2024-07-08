@@ -1,3 +1,8 @@
 {
-    "values": []
+    "values": [
+        "rails:tick",
+        "rails:bridge",
+        "rails:tnt_bow",
+        "rails:totem"
+    ]
 }
