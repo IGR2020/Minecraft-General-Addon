@@ -6,6 +6,7 @@ recipe give @a *
 gamerule doLimitedCrafting true
 recipe take @a shield
 recipe take @a spectral_arrow
+recipe take @a netherite_pickaxe_smithing
 
 # custom enchanting
 scoreboard objectives add trident_thrown minecraft.dropped:trident

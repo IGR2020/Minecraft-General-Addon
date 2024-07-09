@@ -9,3 +9,9 @@ execute as @a[nbt={Inventory:[{Slot:-106b, id: "minecraft:trident"}]}] run effec
 
 # jetpack
 execute as @a[nbt={Inventory:[{Slot:102b, id: "minecraft:chainmail_chestplate"}]}] if score @s jetpack_right_click matches 1.. run function rails:jetpack
+
+# picaxe
+execute as @a[nbt = {SelectedItem: {id: "minecraft:netherite_pickaxe"}}] run effect clear @s haste
+execute as @a[nbt={Inventory:[{Slot:-106b, id: "minecraft:netherite_pickaxe"}]}] run effect clear @s haste
+execute as @a[nbt = {SelectedItem: {id: "minecraft:netherite_pickaxe"}}] run effect give @s haste 3 10 true
+execute as @a[nbt={Inventory:[{Slot:-106b, id: "minecraft:netherite_pickaxe"}]}] run effect give @s haste 3 3 true
