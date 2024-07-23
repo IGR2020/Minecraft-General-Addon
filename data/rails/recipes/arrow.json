@@ -1,5 +1,0 @@
-{
-    "type": "crafting_shapeless",
-    "ingredients": [{"item": "tnt"}, {"item": "netherite_scrap"}, {"item": "arrow"}, {"item": "slime_ball"}],
-    "result": {"item": "spectral_arrow", "count": 8}
-}
