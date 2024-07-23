@@ -1,0 +1,5 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [{"item": "blaze_powder"}, {"item": "tnt"}, {"item": "tnt"}, {"item": "gunpowder"}, {"item": "gold_ingot"}, {"item": "gold_ingot"}, {"item": "gold_ingot"}, {"item": "gold_ingot"}, {"item": "gold_ingot"}],
+    "result": {"item": "fire_charge", "count": 2}
+}

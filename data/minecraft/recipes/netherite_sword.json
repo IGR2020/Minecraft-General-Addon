@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GNG",
+        "EDT",
+        "GSG"
+    ],
+    "key": {
+        "G": {"item": "gold_block"},
+        "D": {"item": "diamond_sword"},
+        "S": {"item": "nether_star"},
+        "E": {"item": "enchanted_golden_apple"},
+        "T": {"item": "totem_of_undying"},
+        "N": {"item": "netherite_ingot"}
+    },
+    "result": {"item": "netherite_sword"}
+}

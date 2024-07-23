@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "N": {"item": "netherite_ingot"},
+        "D": {"item": "diamond_pickaxe"},
+        "G": {"item": "gold_block"}
+    },
+    "pattern": [
+        "GNG",
+        "GDG",
+        "GNG"
+    ],
+    "result": {"item": "netherite_pickaxe"}
+}
